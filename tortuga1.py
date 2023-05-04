@@ -1,5 +1,5 @@
 import turtle
-import time
+
 
 turtle.title("Tortuga")
 turtle.forward(100)
